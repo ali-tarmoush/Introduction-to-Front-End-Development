@@ -29,3 +29,9 @@ In this module, you will learn about the different types of web developers and t
 
 ### WEEK 2: Introduction to HTML and CSS
 In this module you will learn how to construct HTML documents and add basic styling and layout using CSS.
+
+### WEEK 3: UI Frameworks
+In this module you will learn how to use the Bootstrap framework to build responsive interfaces and the benefits of working with UI frameworks.
+
+### WEEK 4: End-of-Course Graded Assessment
+In this module, you will be assessed on the key skills covered in the Course.
