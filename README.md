@@ -21,3 +21,8 @@ By the end of the course, you will be able to:
 For the final project in this course, you will create and edit a webpage using HTML and the Bootstrap CSS framework. Using a responsive layout grid, you will construct a responsive webpage containing text and images that looks great on any size screen. 
 
 This is a beginner course intended for learners eager to learn the fundamentals of web development. To succeed in this course, you do not need prior web development experience, only basic internet navigation skills and an eagerness to get started with coding.
+
+## Syllabus - What you will learn from this course
+
+### WEEK 1: Get started with web development
+In this module, you will learn about the different types of web developers and the roles and responsibilities of front-end, back-end, and full-stack developers. You will take a first look at the core technologies of HTML, CSS, and Javascript and explore the concepts that underpin how the internet works.
