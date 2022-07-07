@@ -26,3 +26,6 @@ This is a beginner course intended for learners eager to learn the fundamentals 
 
 ### WEEK 1: Get started with web development
 In this module, you will learn about the different types of web developers and the roles and responsibilities of front-end, back-end, and full-stack developers. You will take a first look at the core technologies of HTML, CSS, and Javascript and explore the concepts that underpin how the internet works.
+
+### WEEK 2: Introduction to HTML and CSS
+In this module you will learn how to construct HTML documents and add basic styling and layout using CSS.
